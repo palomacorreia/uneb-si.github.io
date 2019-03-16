@@ -24,3 +24,7 @@ Voce deve ver a sua pagina em public
 ```
 npm run deploy
 ```
+
+
+## utilidades
+https://tableconvert.com/
