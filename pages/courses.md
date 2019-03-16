@@ -1,5 +1,5 @@
 ### [uneb-si.github.io](https://uneb-si.github.io)
-# Matérias
+# Disciplinas
 
 ## 1º Semestre
 | Disciplina                                     | Código  | Grupo de email                                                       |
