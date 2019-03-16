@@ -1,5 +1,9 @@
 # uneb-si.github.io
 
-agrupamento de informações sobre curso de sistemas.
+Agrupamento de informações sobre curso de sistemas.
 
-### [Profesores](/teachers)
+## [Professores](/teachers)
+Informações de contato de cada professor
+
+## [Matérias](/courses)
+Informações de contato de cada professor

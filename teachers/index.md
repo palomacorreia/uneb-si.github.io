@@ -1,5 +1,5 @@
 ### [uneb-si.github.io](https://uneb-si.github.io)
-# Profesores
+# Professores
 
 
 |nome|telefone|email|
