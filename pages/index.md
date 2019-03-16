@@ -2,8 +2,8 @@
 
 Agrupamento de informações sobre curso de sistemas.
 
-## [Professores](/teachers)
+## [Professores](/teachers.html)
 Informações de contato de cada professor
 
-## [Matérias](/courses)
+## [Matérias](/courses.html)
 Informações de contato de cada professor
