@@ -16,7 +16,7 @@ crie sua pagina ou edite em ./pages
 ```
 npm run build
 ```
-talvez voce precise baixar o markdown `npm i markdown -g`.
+talvez voce precise baixar o markgen `npm i markgen -g`.
 
 Voce deve ver a sua pagina em public
 
@@ -25,8 +25,9 @@ Voce deve ver a sua pagina em public
 npm run deploy
 ```
 
-
 ## utilidades
-https://tableconvert.com/
-https://github.com/ritwickdey/vscode-live-server
+* Criador de tabelas pra markdown
+  * https://tableconvert.com/
+* Live server pra vscode
+  * https://github.com/ritwickdey/vscode-live-server
 
