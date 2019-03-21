@@ -1,4 +1,4 @@
-# uneb-si.github.io 
+# Sistemas de informação
 Agrupamento de informações sobre curso de sistemas. [Contribua Aqui pelo github](https://github.com/UNEB-SI/uneb-si.github.io)
 
 ## [Professores](/teachers.html)
