@@ -16,7 +16,7 @@ crie sua pagina ou edite em ./pages
 ```
 npm run build
 ```
-talvez voce precise baixar o markdown `npm i markdown -g`.
+talvez voce precise baixar o markgen `npm i markgen -g`.
 
 Voce deve ver a sua pagina em public
 
