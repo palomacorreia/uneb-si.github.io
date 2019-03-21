@@ -28,3 +28,5 @@ npm run deploy
 
 ## utilidades
 https://tableconvert.com/
+https://github.com/ritwickdey/vscode-live-server
+

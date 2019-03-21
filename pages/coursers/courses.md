@@ -1,5 +1,6 @@
-### [uneb-si.github.io](https://uneb-si.github.io)
-# Disciplinas
+### [uneb-si.github.io](/)
+---
+# Disciplinas [🖉](https://github.com/UNEB-SI/uneb-si.github.io/blob/edit/pages/coursers/courses.md)
 
 ## 1º Semestre
 | Disciplina                                     | Código  | Grupo de email                                                       |
