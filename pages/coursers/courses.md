@@ -2,7 +2,7 @@
 ---
 # Disciplinas [🖉](https://github.com/UNEB-SI/uneb-si.github.io/blob/edit/pages/coursers/courses.md)
 
-## 1º Semestre [PDF](/docs/1.pdf)
+## 1º Semestre [Ementa PDF](/docs/1.pdf)
 | Disciplina                                     | Código  |
 |------------------------------------------------|---------|
 | Sociologia                                     | CIS465  |
@@ -11,7 +11,7 @@
 | Lógica e Matemática Discreta                   | MAT002  |
 | Algoritmos                                     | CPD063  |
 
-## 2º Semestre [PDF](/docs/2.pdf)
+## 2º Semestre [Ementa PDF](/docs/2.pdf)
 | Disciplina                                     | Código  |
 |------------------------------------------------|---------|
 | Fundamentos de Informática                     | CPD004  |
@@ -23,7 +23,7 @@
 | Arquitetura de Computadores                    | CPD008  |
 
 
-## 3º Semestre [PDF](/docs/3.pdf)
+## 3º Semestre [Ementa PDF](/docs/3.pdf)
 | Disciplina                                     | Código  |
 |------------------------------------------------|---------|
 | Metodologia da Pesquisa em Informática         | CPD014  |
@@ -34,7 +34,7 @@
 | Sistemas Operacionais                          | CPD020  |
 
 
-## 4º Semestre [PDF](/docs/4.pdf)
+## 4º Semestre [Ementa PDF](/docs/4.pdf)
 | Disciplina                                     | Código  |
 |------------------------------------------------|---------|
 | Probabilidade e Estatística                    | MAT066  |
@@ -45,7 +45,7 @@
 | Redes de Computadores I                        | CPD024  |
 
 
-## 5º Semestre [PDF](/docs/5.pdf)
+## 5º Semestre [Ementa PDF](/docs/5.pdf)
 | Disciplina                                     | Código  |
 |------------------------------------------------|---------|
 | Economia                                       | ECO262  |
@@ -55,7 +55,7 @@
 | Redes de Computadores II                       | CPD028  |
 
 
-## 6º Semestre [PDF](/docs/6.pdf)
+## 6º Semestre [Ementa PDF](/docs/6.pdf)
 | Disciplina                                     | Código  |
 |------------------------------------------------|---------|
 | Psicologia Aplicada às Organizações            | ADM020  |
@@ -65,7 +65,7 @@
 | Sistemas Distribuídos                          | CPD032  |
 
 
-## 7º Semestre [PDF](/docs/7.pdf)
+## 7º Semestre [Ementa PDF](/docs/7.pdf)
 | Disciplina                                     | Código  |
 |------------------------------------------------|---------|
 | Ética Profissional                             | CIS062  |
@@ -76,7 +76,7 @@
 
 
 
-## 8º Semestre [PDF](/docs/8.pdf)
+## 8º Semestre [Ementa PDF](/docs/8.pdf)
 | Disciplina                                     | Código  |
 |------------------------------------------------|---------|
 | Empreendedorismo                               | ADM014  |
@@ -86,7 +86,7 @@
 | Auditoria de Sistemas                          | CPD045  |
 
 
-## 9º Semestre [PDF](/docs/9.pdf)
+## 9º Semestre [Ementa PDF](/docs/9.pdf)
 | Disciplina                                     | Código  |
 |------------------------------------------------|---------|
 | Tópicos Especiais em Banco de Dados            | CPD046  |
@@ -94,7 +94,7 @@
 | Computadores e Sociedade                       | CPD048  |
 
 
-## Optativas [PDF](/docs/optativas.pdf)
+## Optativas [Ementa PDF](/docs/optativas.pdf)
 | Disciplina                                     | Código  |
 |------------------------------------------------|---------|
 | Cálculo III                                    | MAT007  |
