@@ -1,4 +1,4 @@
-# Sistemas de informação
+# Sistemas de Informação
 Agrupamento de informações sobre curso de sistemas. 
 
 ## [Professores](/teachers.html)
