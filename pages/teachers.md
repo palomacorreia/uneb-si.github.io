@@ -8,7 +8,7 @@
 | Antônio Marcos Brito Cerqueira    | Sem informação | marcosbcerqueira@yahoo.com.br             |
 | Cláudio Alves de Amorim           | Sem informação | clamorim67@gmail.com                      |
 | Débora Alcina Rego Chaves         | Sem informação | dchaves@uneb.br                           |
-| Diego Gervásio Frias Suarez       | 71 99242-9076  | diegofriass@gmail.com, diegofrias@uneb.br |
+| Diego Gervásio Frias Suarez       | indisponivel   | diegofriass@gmail.com, diegofrias@uneb.br |
 | Eduardo Manoel de Freitas Jorge   | Sem informação | emjorge1974@gmail.com                     |
 | Ernesto Massa                     | Sem informação | ebmneto@uneb.br                           |
 | Josemar Sampaio Farias            | Sem informação | josemarbr@gmail.com                       |
