@@ -19,4 +19,5 @@
 | Maria Lívia Astoufo Coutinho      | Sem informação | marialivia@hotmail.com                    |
 | Trícia Santos Couto               | Sem informação | tricia.ssantos@gmail.com                  |
 | Artur Henrique Kronbauer          | Sem informação | arthurhk@gmail.com                        |
-| Hugo Saba Pereira Cardoso         | Sem informação | Sem informação                            |
+| Hugo Saba Pereira Cardoso         | Sem informação | Hugosaba@gmail.com                        |
+|Jorge Campos                       | Sem informação | Jorgeapcampos@gmail.com                   |
